@@ -56,28 +56,28 @@
 }
 
 .portfolio-img-container .item2 {
-  width: 300px;
-  background-image: url(../images/portfolio-img-3.png);
-}
-
-.portfolio-img-container .item3 {
-  width: 500px;
+  width: 400px;
   background-image: url(../images/portfolio-img-2.png);
 }
 
+.portfolio-img-container .item3 {
+  width: 400px;
+  background-image: url(../images/portfolio-img-3.png);
+}
+
 .portfolio-img-container .item4 {
-  width: 300px;
-  background-image: url(../images/portfolio-img-6.png);
+  width: 400px;
+  background-image: url(../images/portfolio-img-4.png);
 }
 
 .portfolio-img-container .item5 {
-  width: 500px;
-  background-image: url(../images/portfolio-img-4.png);
+  width: 400px;
+  background-image: url(../images/portfolio-img-5.png);
 }
 
 .portfolio-img-container .item6 {
   width: 400px;
-  background-image: url(../images/portfolio-img-5.jpeg);
+  background-image: url(../images/portfolio-img-6.png);
 }
 
 @media screen and (max-width: 800px) {

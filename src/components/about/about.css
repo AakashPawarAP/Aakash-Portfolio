@@ -29,6 +29,11 @@
   font-weight: 700;
 }
 
+.info-about-conatiner p {
+  font-size: 18px;
+  /* font-weight: 700; */
+}
+
 .underline {
   height: 5px;
   background-color: #fca738;
@@ -42,6 +47,7 @@
   border-radius: 20px;
   box-shadow: 0 0 30px #00000029;
   margin: 50px 0 25px 0;
+  padding: 10px;
 }
 
 .tech-logos h5 {
@@ -58,14 +64,19 @@
 .tech-logos-flex {
   display: flex;
   margin-bottom: 10px;
-  justify-content: space-around;
+  justify-content: space-between;
   margin-bottom: 15px;
   flex-wrap: wrap;
 }
+.tech-logos-flex > * {
+  flex: 5 5 80px;
+  margin-top: 15px;
+  margin: 3px;
+}
 
 .tech-logos img {
-  height: 50px;
-  width: 50px;
+  height: 60px;
+  width: 60px;
 }
 
 @media screen and (max-width: 800px) {
