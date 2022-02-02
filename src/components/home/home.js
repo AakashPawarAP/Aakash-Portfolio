@@ -1,9 +1,9 @@
 import { Component } from "react";
 import Img from "../images/dev-img.png";
-import Resume from "../resume/resume";
+// import Resume from "../resume/resume";
 import "./home.css";
 // import Resume from "../images/Resume.pdf";
-
+import Resume from "../images/Aakash's Resume (5).pdf";
 class Home extends Component {
   render() {
     return (
