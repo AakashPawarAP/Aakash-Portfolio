@@ -22,7 +22,7 @@ class Resume extends Component {
                     <h4>Full Stack Web Development Training Internship</h4>
                     <p>Prepbytes, Gurugram</p>
                   </div>
-                  <span>Oct '20 - Dec '20</span>
+                  <span>Aug '21 - Present</span>
                 </div>
               </div>
             </div>
@@ -35,7 +35,7 @@ class Resume extends Component {
                     <h4>BE Electronics And Telecommunication Engineering</h4>
                     <p>Theem College of Engineering, Mumbai University </p>
                   </div>
-                  <span>2015-2020</span>
+                  <span>2020</span>
                 </div>
                 {/* <div className="flex align-items space-between">
                   <div>
