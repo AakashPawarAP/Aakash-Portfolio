@@ -9,6 +9,7 @@ import ImgPy from "../images/python-logo.png";
 import ImgScss from "../images/scss-logo.png";
 import ImgNodeJs from "../images/nodeJS-logo.png";
 import ImgExpressJs from "../images/expressJS-logo.png";
+import ImgMongoDB from "../images/mongoDB-logo.png";
 import ImgNetlify from "../images/netlify-logo.png";
 import ImgHeroku from "../images/heroku-logo.png";
 
@@ -58,6 +59,7 @@ class About extends Component {
               <img src={ImgScss} alt="scss-logo" />
               <img src={ImgNodeJs} alt="nodeJS-logo" />
               <img src={ImgExpressJs} alt="expressJS-logo" />
+              <img src={ImgMongoDB} alt="mongoDB-logo" />
               <img src={ImgNetlify} alt="noetlify-logo" />
               <img src={ImgHeroku} alt="heroku-logo" />
             </div>

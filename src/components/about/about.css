@@ -101,8 +101,23 @@
     margin: 25px;
   }
 
-  .tech-logos img {
+  /* .tech-logos img {
     height: 38px;
     width: 38px;
+  } */
+
+  .tech-logos-flex {
+    display: flex;
+    margin-bottom: 10px;
+    justify-content: space-between;
+    margin-bottom: 15px;
+    flex-wrap: wrap;
+  }
+  .tech-logos {
+    padding: 1px 10px;
+    border-radius: 20px;
+    box-shadow: 0 0 30px #00000029;
+    margin: 50px 0 25px 0;
+    padding: 10px;
   }
 }
