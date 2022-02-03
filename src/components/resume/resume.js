@@ -39,10 +39,10 @@ class Resume extends Component {
                 </div>
                 {/* <div className="flex align-items space-between">
                   <div>
-                    <h4></h4>
+                    <h4>SVP College</h4>
                     <p>HSC</p>
                   </div>
-                  <span>2015-2016</span>
+                  <span>2015</span>
                 </div> */}
               </div>
             </div>
