@@ -39,7 +39,7 @@ class Resume extends Component {
                 </div>
                 {/* <div className="flex align-items space-between">
                   <div>
-                    <h4>Citizen's School, Surat</h4>
+                    <h4></h4>
                     <p>HSC</p>
                   </div>
                   <span>2015-2016</span>
@@ -53,24 +53,38 @@ class Resume extends Component {
               <a
                 href="https://www.linkedin.com/in/aakash-pawar-a54360179/"
                 target="_blank"
+                rel="noopener noreferrer"
               >
                 <BsLinkedin />
               </a>
 
-              <a href="https://aakash-pawar.hashnode.dev/" target="_blank">
+              <a
+                href="https://aakash-pawar.hashnode.dev/"
+                target="_blank"
+                rel="noopener noreferrer"
+              >
                 <SiHashnode />
               </a>
 
-              <a href="https://twitter.com/aakashpawar97" target="_blank">
+              <a
+                href="https://twitter.com/aakashpawar97"
+                target="_blank"
+                rel="noopener noreferrer"
+              >
                 <AiFillTwitterCircle />
               </a>
-              <a href="https://github.com/AakashPawarAP" target="_blank">
+              <a
+                href="https://github.com/AakashPawarAP"
+                target="_blank"
+                rel="noopener noreferrer"
+              >
                 <AiFillGithub />
               </a>
 
               <a
                 href="https://www.instagram.com/_aakash_pawar__/"
                 target="_blank"
+                rel="noopener noreferrer"
               >
                 <BsInstagram />
               </a>

@@ -11,12 +11,17 @@ class Portfolio extends Component {
           <a
             href="https://blog-app-react-with-nodejs.netlify.app/"
             target="_blank"
+            rel="noopener noreferrer"
           >
             <div className="item1 items">
               <h3>The Siren - Blog App</h3>
             </div>
           </a>
-          <a href="https://aakashpawarap.github.io/ToDoJS-App/" target="_blank">
+          <a
+            href="https://aakashpawarap.github.io/ToDoJS-App/"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
             <div className="item2 items">
               <h3>ToDo App</h3>
             </div>
@@ -24,6 +29,7 @@ class Portfolio extends Component {
           <a
             href="https://aakashpawarap.github.io/Digital-Clock/"
             target="_blank"
+            rel="noopener noreferrer"
           >
             <div className="item3 items">
               <h3>Clock App</h3>
@@ -32,6 +38,7 @@ class Portfolio extends Component {
           <a
             href="https://aakashpawarap.github.io/CSS-Assessment6-SaharaSafari/"
             target="_blank"
+            rel="noopener noreferrer"
           >
             <div className="item4 items">
               <h3>Sahara Travel Guide</h3>
@@ -40,12 +47,17 @@ class Portfolio extends Component {
           <a
             href="https://aakashpawarap.github.io/CSS-Assessment5-Animation/transition.html"
             target="_blank"
+            rel="noopener noreferrer"
           >
             <div className="item5 items">
               <h3>CSS Transition and Animation Guide App</h3>
             </div>
           </a>
-          <a href="" target="_blank">
+          <a
+            href="https://aakash-pawar-portfolio.netlify.app/"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
             <div className="item6 items">
               <h3>Personal Portfolio</h3>
             </div>
